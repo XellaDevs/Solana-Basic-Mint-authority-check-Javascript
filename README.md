@@ -1,6 +1,6 @@
 # Solana-Basic-Mitn-authority-check-Javascript
 
-npm istall @solana/web3.js
+npm istal @solana/web3.js
 
 Replace with the mint address you want to check
 const mintAddress = 'EKMsNeUWCdhf3nzWhATCkwZnWMxHngS1CbFWnb81KrvY';
